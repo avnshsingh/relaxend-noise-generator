@@ -33,7 +33,8 @@ import {
   type IntentId,
 } from "@/lib/audio/presets"
 
-const STORAGE_KEY = "hum-noise-lab"
+const STORAGE_KEY = "relaxend-noise-lab"
+const LEGACY_STORAGE_KEY = "hum-noise-lab"
 
 type PersistedState = {
   color: NoiseColorId
@@ -208,7 +209,10 @@ export function useNoiseEngine(options: { color?: NoiseLabColor } = {}) {
 
     if (!loaded) {
       loaded = true
-      memory = parseState(window.localStorage.getItem(STORAGE_KEY))
+      memory = parseState(
+        window.localStorage.getItem(STORAGE_KEY) ??
+          window.localStorage.getItem(LEGACY_STORAGE_KEY),
+      )
       emit()
     }
 

@@ -1,6 +1,16 @@
 {
-  "name": "sound-test",
-  "version": "0.1.0",
+  "name": "relaxend-noise-generator",
+  "version": "1.0.0",
+  "description": "Open-source procedural Web Audio noise generator for focus, sleep, ADHD, and sound masking. Synthesizes White, Pink, Brown, Green, Grey, Blue, and Violet noise in real time.",
+  "homepage": "https://relaxend.com/noise-generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avnshsingh/relaxend-noise-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avnshsingh/relaxend-noise-generator/issues"
+  },
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
