@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/avnshsingh/relaxend-noise-generator/pulls)
 
-[Live App](https://relaxend.com/noise-generator) • [Official Website](https://relaxend.com) • [Report an Issue](https://github.com/avnshsingh/relaxend-noise-generator/issues) • [Request Feature](https://github.com/avnshsingh/relaxend-noise-generator/issues/new)
+<a href="https://relaxend.com/noise-generator" target="_blank" rel="noopener noreferrer">Live App</a> • <a href="https://relaxend.com" target="_blank" rel="noopener noreferrer">Official Website</a> • <a href="https://github.com/avnshsingh/relaxend-noise-generator/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a> • <a href="https://github.com/avnshsingh/relaxend-noise-generator/issues/new" target="_blank" rel="noopener noreferrer">Request Feature</a>
 
 </div>
 
@@ -34,13 +34,13 @@
 
 | Noise Color | Falloff / Curve | Sounds Like | Primary Benefit |
 | :--- | :--- | :--- | :--- |
-| [**Brown Noise**](https://relaxend.com/brown-noise) | -6 dB / octave (1/f²) | Deep waterfall, distant thunder, jet cabin | Deep sleep, insomnia relief & ADHD calm |
-| [**Pink Noise**](https://relaxend.com/pink-noise) | -3 dB / octave (1/f) | Gentle rainfall, rustling leaves, river | Deep focus, study blocks & memory |
-| [**White Noise**](https://relaxend.com/white-noise) | 0 dB / octave (Flat) | Television static, tuned radio hiss | Speech masking & office privacy |
-| [**Green Noise**](https://relaxend.com/green-noise) | ~500 Hz band-pass | Wind through pines, forest canopy | Meditation, breathwork & nature calm |
-| [**Grey Noise**](https://relaxend.com/grey-noise) | Inverted A-weighting | Psychoacoustically balanced static | Equal perceived loudness & zero ear fatigue |
-| [**Blue Noise**](https://relaxend.com/blue-noise) | +3 dB / octave (+f) | Sharp waterfall spray, crisp steam hiss | High-frequency noise suppression & dithering |
-| [**Violet Noise**](https://relaxend.com/violet-noise) | +6 dB / octave (+f²) | Ultra-thin sizzling air, high treble | Tinnitus frequency habituation |
+| <a href="https://relaxend.com/brown-noise" target="_blank" rel="noopener noreferrer"><strong>Brown Noise</strong></a> | -6 dB / octave (1/f²) | Deep waterfall, distant thunder, jet cabin | Deep sleep, insomnia relief & ADHD calm |
+| <a href="https://relaxend.com/pink-noise" target="_blank" rel="noopener noreferrer"><strong>Pink Noise</strong></a> | -3 dB / octave (1/f) | Gentle rainfall, rustling leaves, river | Deep focus, study blocks & memory |
+| <a href="https://relaxend.com/white-noise" target="_blank" rel="noopener noreferrer"><strong>White Noise</strong></a> | 0 dB / octave (Flat) | Television static, tuned radio hiss | Speech masking & office privacy |
+| <a href="https://relaxend.com/green-noise" target="_blank" rel="noopener noreferrer"><strong>Green Noise</strong></a> | ~500 Hz band-pass | Wind through pines, forest canopy | Meditation, breathwork & nature calm |
+| <a href="https://relaxend.com/grey-noise" target="_blank" rel="noopener noreferrer"><strong>Grey Noise</strong></a> | Inverted A-weighting | Psychoacoustically balanced static | Equal perceived loudness & zero ear fatigue |
+| <a href="https://relaxend.com/blue-noise" target="_blank" rel="noopener noreferrer"><strong>Blue Noise</strong></a> | +3 dB / octave (+f) | Sharp waterfall spray, crisp steam hiss | High-frequency noise suppression & dithering |
+| <a href="https://relaxend.com/violet-noise" target="_blank" rel="noopener noreferrer"><strong>Violet Noise</strong></a> | +6 dB / octave (+f²) | Ultra-thin sizzling air, high treble | Tinnitus frequency habituation |
 
 ### 2. Studio 10-Band Graphic Equalizer
 Shape frequencies from **31 Hz to 16 kHz** with ±12 dB precision across 10 octave bands:
@@ -175,9 +175,9 @@ We welcome contributions from developers, audio engineers, sound designers, and 
 
 Found a bug or have a suggestion for the noise generator? We would love to hear from you!
 
-- **Issue Tracker:** [Open an issue on GitHub](https://github.com/avnshsingh/relaxend-noise-generator/issues)
-- **Feature Requests:** [Submit a feature proposal](https://github.com/avnshsingh/relaxend-noise-generator/issues/new)
-- **Discussions:** [Join the community discussions](https://github.com/avnshsingh/relaxend-noise-generator/discussions)
+- **Issue Tracker:** <a href="https://github.com/avnshsingh/relaxend-noise-generator/issues" target="_blank" rel="noopener noreferrer">Open an issue on GitHub</a>
+- **Feature Requests:** <a href="https://github.com/avnshsingh/relaxend-noise-generator/issues/new" target="_blank" rel="noopener noreferrer">Submit a feature proposal</a>
+- **Discussions:** <a href="https://github.com/avnshsingh/relaxend-noise-generator/discussions" target="_blank" rel="noopener noreferrer">Join the community discussions</a>
 
 When filing a bug report, please include:
 - Your operating system and browser version (e.g. macOS Sonoma, Chrome 124 / iOS 17.4 Safari).
@@ -188,19 +188,19 @@ When filing a bug report, please include:
 
 ## Multilingual Support
 
-The live version on [RelaxEnd.com](https://relaxend.com) is available in 11 languages:
+The live version on <a href="https://relaxend.com" target="_blank" rel="noopener noreferrer">RelaxEnd.com</a> is available in 11 languages:
 
-- 🇺🇸 [English](https://relaxend.com)
-- 🇪🇸 [Español (Spanish)](https://relaxend.com/es)
-- 🇧🇷 [Português (Portuguese)](https://relaxend.com/pt)
-- 🇮🇹 [Italiano (Italian)](https://relaxend.com/it)
-- 🇩🇪 [Deutsch (German)](https://relaxend.com/de)
-- 🇫🇷 [Français (French)](https://relaxend.com/fr)
-- 🇮🇳 [हिन्दी (Hindi)](https://relaxend.com/hi)
-- 🇮🇩 [Bahasa Indonesia](https://relaxend.com/id)
-- 🇵🇱 [Polski (Polish)](https://relaxend.com/pl)
-- 🇯🇵 [日本語 (Japanese)](https://relaxend.com/ja)
-- 🇳🇱 [Nederlands (Dutch)](https://relaxend.com/nl)
+- 🇺🇸 <a href="https://relaxend.com" target="_blank" rel="noopener noreferrer">English</a>
+- 🇪🇸 <a href="https://relaxend.com/es" target="_blank" rel="noopener noreferrer">Español (Spanish)</a>
+- 🇧🇷 <a href="https://relaxend.com/pt" target="_blank" rel="noopener noreferrer">Português (Portuguese)</a>
+- 🇮🇹 <a href="https://relaxend.com/it" target="_blank" rel="noopener noreferrer">Italiano (Italian)</a>
+- 🇩🇪 <a href="https://relaxend.com/de" target="_blank" rel="noopener noreferrer">Deutsch (German)</a>
+- 🇫🇷 <a href="https://relaxend.com/fr" target="_blank" rel="noopener noreferrer">Français (French)</a>
+- 🇮🇳 <a href="https://relaxend.com/hi" target="_blank" rel="noopener noreferrer">हिन्दी (Hindi)</a>
+- 🇮🇩 <a href="https://relaxend.com/id" target="_blank" rel="noopener noreferrer">Bahasa Indonesia</a>
+- 🇵🇱 <a href="https://relaxend.com/pl" target="_blank" rel="noopener noreferrer">Polski (Polish)</a>
+- 🇯🇵 <a href="https://relaxend.com/ja" target="_blank" rel="noopener noreferrer">日本語 (Japanese)</a>
+- 🇳🇱 <a href="https://relaxend.com/nl" target="_blank" rel="noopener noreferrer">Nederlands (Dutch)</a>
 
 ---
 
@@ -208,13 +208,13 @@ The live version on [RelaxEnd.com](https://relaxend.com) is available in 11 lang
 
 Stay connected with the RelaxEnd ecosystem:
 
-- **Official Website:** [relaxend.com](https://relaxend.com)
-- **Noise Generator:** [relaxend.com/noise-generator](https://relaxend.com/noise-generator)
-- **Sound Library:** [relaxend.com/sounds](https://relaxend.com/sounds)
-- **YouTube:** [@relaxendapp](https://www.youtube.com/@relaxendapp)
-- **X (Twitter):** [@relaxendapp](https://x.com/relaxendapp)
-- **Instagram:** [@relaxendapp](https://www.instagram.com/relaxendapp)
-- **LinkedIn:** [RelaxEnd](https://www.linkedin.com/company/relaxend)
+- **Official Website:** <a href="https://relaxend.com" target="_blank" rel="noopener noreferrer">relaxend.com</a>
+- **Noise Generator:** <a href="https://relaxend.com/noise-generator" target="_blank" rel="noopener noreferrer">relaxend.com/noise-generator</a>
+- **Sound Library:** <a href="https://relaxend.com/sounds" target="_blank" rel="noopener noreferrer">relaxend.com/sounds</a>
+- **YouTube:** <a href="https://www.youtube.com/@relaxendapp" target="_blank" rel="noopener noreferrer">@relaxendapp</a>
+- **X (Twitter):** <a href="https://x.com/relaxendapp" target="_blank" rel="noopener noreferrer">@relaxendapp</a>
+- **Instagram:** <a href="https://www.instagram.com/relaxendapp" target="_blank" rel="noopener noreferrer">@relaxendapp</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/company/relaxend" target="_blank" rel="noopener noreferrer">RelaxEnd</a>
 
 ---
 
@@ -222,4 +222,4 @@ Stay connected with the RelaxEnd ecosystem:
 
 This project is open-source software licensed under the **[MIT License](LICENSE)**.
 
-Built with care for sound lovers, deep sleepers, and focused thinkers worldwide by the [RelaxEnd](https://relaxend.com) team.
+Built with care for sound lovers, deep sleepers, and focused thinkers worldwide by the <a href="https://relaxend.com" target="_blank" rel="noopener noreferrer">RelaxEnd</a> team.
